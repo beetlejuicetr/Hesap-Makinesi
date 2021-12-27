@@ -1,12 +1,12 @@
 print("""
 
-    -----------------------------
-    |Hesap Makinesine Hoşgeldin!|
-    |                           |
-    |Sürüm   : v1.2             |
-    |Yapımcı : MID              |
-    |Dil     : Python           |
-    -----------------------------
+    -------------------------------
+    |Hesap Makinesine Hoşgeldin!  |
+    |                             |
+    |Sürüm   : v1.2               |
+    |Yapımcı : Beetlejuicetr (MID)|
+    |Dil     : Python             |
+    -------------------------------
 
     """)
 
